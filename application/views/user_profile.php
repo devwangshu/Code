@@ -53,7 +53,7 @@ if(!$user_id){
 
     </div>
   </div>
-<a href="<?php echo base_url('user/user_logout');?>" >  <button type="button" class="btn-primary">Logout</button></a>
+<a href="<?php echo base_url('index.php/user/user_logout');?>" >  <button type="button" class="btn-primary">Logout</button></a>
 </div>
   </body>
 </html>
